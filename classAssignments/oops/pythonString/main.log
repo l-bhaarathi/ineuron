@@ -1,0 +1,86 @@
+INFO 2022-07-09 21:17:11,975 Logged into main file.
+INFO 2022-07-09 21:17:24,024 Logged into main file.
+INFO 2022-07-09 21:19:20,811 Function 'data' from the file has been accessed.
+INFO 2022-07-09 21:20:38,703 Data input success.Data-- wELCOME tO pythOn . tHis is mY fIrsT prOgRam
+INFO 2022-07-09 21:22:36,345 String File has been opened.
+INFO 2022-07-09 21:22:36,345 Class String has been accessed
+INFO 2022-07-09 21:22:36,345 Function 'data' from the file has been accessed.
+INFO 2022-07-09 21:23:17,822 Data input success.Data-- wELCOME tO pythOn . tHis is mY fIrsT prOgRam
+INFO 2022-07-09 21:23:17,823 Data import success.
+INFO 2022-07-09 21:23:17,823 Data : None
+INFO 2022-07-09 21:23:41,493 Function string_caps has been accessed
+ERROR 2022-07-09 21:23:41,498 'NoneType' object has no attribute 'capitalize'
+INFO 2022-07-09 21:24:29,626 Function string_extract has been accessed
+ERROR 2022-07-09 21:24:29,626 'NoneType' object is not subscriptable
+INFO 2022-07-09 21:25:03,365 Function string_extract has been accessed
+ERROR 2022-07-09 21:25:03,367 'NoneType' object is not subscriptable
+INFO 2022-07-09 21:26:11,254 Logged into main file.
+INFO 2022-07-09 21:26:11,342 Function 'data' from the file has been accessed.
+INFO 2022-07-09 21:26:33,845 Data input success.Data-- welCome To My pYthonPrograMMing
+INFO 2022-07-09 21:26:33,880 String File has been opened.
+INFO 2022-07-09 21:26:33,880 Class String has been accessed
+INFO 2022-07-09 21:26:33,880 Function 'data' from the file has been accessed.
+INFO 2022-07-09 21:27:01,474 Data input success.Data-- weLcOme To mY pYThon pRogrMMing.
+INFO 2022-07-09 21:27:01,475 Data import success.
+INFO 2022-07-09 21:27:01,475 Data : None
+INFO 2022-07-09 21:27:01,507 Function string_caps has been accessed
+ERROR 2022-07-09 21:27:01,509 'NoneType' object has no attribute 'capitalize'
+INFO 2022-07-09 21:27:01,636 Function string_extract has been accessed
+ERROR 2022-07-09 21:27:01,637 'NoneType' object is not subscriptable
+INFO 2022-07-09 21:27:01,836 Function string_extract has been accessed
+ERROR 2022-07-09 21:27:01,837 'NoneType' object is not subscriptable
+INFO 2022-07-09 21:28:44,246 Logged into main file.
+INFO 2022-07-09 21:28:44,340 String File has been opened.
+INFO 2022-07-09 21:28:44,340 Class String has been accessed
+INFO 2022-07-09 21:28:44,342 Function 'data' from the file has been accessed.
+INFO 2022-07-09 21:29:10,961 Data input success.Data-- wElComew tO pYthoN pRogRammInG
+INFO 2022-07-09 21:29:10,961 Data import success.
+INFO 2022-07-09 21:29:10,961 Data : wElComew tO pYthoN pRogRammInG
+INFO 2022-07-09 21:29:10,988 Function string_caps has been accessed
+INFO 2022-07-09 21:29:10,990 string_caps success
+INFO 2022-07-09 21:29:10,992 Data : Welcomew to python programming
+INFO 2022-07-09 21:29:11,112 Function string_extract has been accessed
+INFO 2022-07-09 21:29:11,112 string_extract success
+INFO 2022-07-09 21:29:11,112 Data : EowOYopgmn
+INFO 2022-07-09 21:29:11,300 Function string_extract has been accessed
+INFO 2022-07-09 21:29:11,301 string_extract success
+INFO 2022-07-09 21:29:11,301 Data : EowOYopgmn
+INFO 2022-07-09 21:44:23,462 Logged into main file.
+INFO 2022-07-09 21:44:23,472 Function 'data' from the file has been accessed.
+INFO 2022-07-09 21:45:02,900 Data input success.Data-- tHis iS mY fiRst pROgRammIng iN pYthOn...!
+INFO 2022-07-09 21:45:02,900 Data import success.
+INFO 2022-07-09 21:45:02,900 Data : tHis iS mY fiRst pROgRammIng iN pYthOn...!
+INFO 2022-07-09 21:46:05,899 Function string_reverse has been accessed
+INFO 2022-07-09 21:46:05,903 string_reverse success
+INFO 2022-07-09 21:46:05,904 Data : !...nOhtYp Ni gnImmaRgORp tsRif Ym Si siHt
+INFO 2022-07-09 21:50:13,636 Logged into main file.
+INFO 2022-07-09 21:50:13,640 String File has been opened.
+INFO 2022-07-09 21:50:13,644 Class String has been accessed
+INFO 2022-07-09 21:50:13,650 Function 'data' from the file has been accessed.
+INFO 2022-07-09 21:50:24,015 Data input success.Data-- tHis iS mY fiRst pROgRammIng iN pYthOn...!
+INFO 2022-07-09 21:50:24,015 Data import success.
+INFO 2022-07-09 21:50:24,015 Raw Data : tHis iS mY fiRst pROgRammIng iN pYthOn...!
+INFO 2022-07-09 21:50:24,148 Function string_reverse has been accessed
+INFO 2022-07-09 21:50:24,148 string_reverse success
+INFO 2022-07-09 21:50:24,148 Data : !...nOhtYp Ni gnImmaRgORp tsRif Ym Si siHt
+INFO 2022-07-09 21:50:36,732 Function string_upper has been accessed
+INFO 2022-07-09 21:50:36,736 string_upper success
+INFO 2022-07-09 21:50:36,737 Data : ['THIS', 'IS', 'MY', 'FIRST', 'PROGRAMMING', 'IN', 'PYTHON...!']
+INFO 2022-07-09 21:50:52,437 Function string_caps has been accessed
+INFO 2022-07-09 21:50:52,438 string_caps success
+INFO 2022-07-09 21:50:52,438 Data : This is my first programming in python...!
+INFO 2022-07-09 21:51:05,781 Function string_lower has been accessed
+INFO 2022-07-09 21:51:05,783 string_lower success
+INFO 2022-07-09 21:51:05,783 Data : this is my first programming in python...!
+INFO 2022-07-09 21:51:17,476 Function string_lstrip has been accessed
+INFO 2022-07-09 21:51:49,644 string_lstrip success
+INFO 2022-07-09 21:51:49,644 Data : pythOn
+INFO 2022-07-09 21:52:02,976 Function string_rstrip has been accessed
+INFO 2022-07-09 21:52:16,412 string_rstrip success
+INFO 2022-07-09 21:52:16,413 Data : pythOn
+INFO 2022-07-09 21:52:35,557 Function string_strip has been accessed
+INFO 2022-07-09 21:52:44,250 string_strip success
+INFO 2022-07-09 21:52:44,250 Data : pythOn
+INFO 2022-07-09 21:52:56,595 Function string_caps has been accessed
+INFO 2022-07-09 21:52:56,595 string_caps success
+INFO 2022-07-09 21:52:56,595 Data : This is my first programming in python...!
