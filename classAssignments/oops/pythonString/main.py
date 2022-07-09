@@ -1,3 +1,4 @@
+#l_bhaarathi
 import logging
 logging.basicConfig(filename="main.log",level=logging.INFO,format="%(levelname)s %(asctime)s %(message)s")
 logging.info("Logged into main file.")
