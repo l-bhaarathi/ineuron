@@ -1,0 +1,46 @@
+Q.1)
+ineuron
+ineuron ineuron
+ineuron ineuron ineuron
+ineuron ineuron ineuron ineuron
+    ans: pattern.name_triangle('ineuron',5)
+q.2)
+.....*.....*ineuron.....*.....*
+.....*ineuron.....*ineuron.....*
+ineuron.....*ineuron.....*ineuron
+.....*ineuron.....*ineuron.....*
+.....*.....*ineuron.....*.....*
+    ans: pattern.name_diamond('ineuron',3)
+
+
+l =[[1,2,3,4], (2,3,4,5,6), (3,4,5,6,7), set([23,4,5,45,4,4,5,45,45,4,5]),{'k1' : "sudh" , 'k2' :
+"ineuron", 'k3' : "kumar", 3:6, 7:8}, ["ineuron", "data science"]]
+
+q.3) Try to extract all the list entity.
+    ans: operations.get_list()
+q.4) Try to extract all the dict entity.
+    ans: operations.get_dict()
+q.5) Try to extract all the Tuples entity.
+    ans: operations.get_tuple()
+q.6) Try to extract all the Numeric data it may be a part of dict key and values.
+    ans: operations.get_num()
+q.7) Try to give summation of all the numeric data.
+    ans: operations.add_num()
+q.8) Try to filter out all the odd values out all numeric datawhich is a part of a list.
+    ans: operations.odd_num()
+q.9) Try to extract "ineuron" out of this dataset.
+    ans: operations.get_val()
+q.10) Try to find out a number of occurance of all the data.
+    ans: operations.val_count()
+q.11) Try to find out a number of keys in dict element.
+    ans: operations.keyNum()
+q.12) Try to filter out all the string data.
+    ans: operations.get_string()
+q.13) Try to find out alphanum in data.
+    ans: operations.alphanum()
+q.14) Try to find out multiplication of all numeric value in the individual collection inside dataset.
+    ans: operations.multiplyLoop()
+q.15) Try to unwrape all the collection inside collection and create a flat list.
+    ans: operations.flatList()
+    
+                                                    *****************
